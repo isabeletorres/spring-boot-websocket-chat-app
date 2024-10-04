@@ -1,4 +1,4 @@
-#ChatApp using *SpringBoot* and *WebSocket*
+#Chat app using *SpringBoot* and *WebSocket*
 
 Is a project Developed by me, With the help of the professor Bouali Ali.
 This project (along with the others I am also working on) is to improve my knowledge in Back-end development. 
